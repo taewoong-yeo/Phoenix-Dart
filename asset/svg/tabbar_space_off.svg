@@ -1,0 +1,9 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h24v24H0z"/>
+        <path d="m17 3.372 4 6.928-4 6.928h-2.578l.578 3H7L3 13.3l4-6.928h2.577l-.577-3h8z" stroke="#9396A7" stroke-width="1.5" stroke-linecap="round"/>
+        <text font-family="Montserrat-Black, Montserrat" font-size="5" font-weight="800" fill="#9396A7" transform="translate(3 2.5)">
+                    <tspan x="5.393" y="5">VS</tspan>
+                </text>
+    </g>
+</svg>

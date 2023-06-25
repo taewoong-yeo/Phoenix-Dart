@@ -1,0 +1,15 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="-186.198%" x2="50%" y2="100%" id="a">
+            <stop stop-color="#2E4BF4" offset="0%"/>
+            <stop stop-color="#7186FF" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h24v24H0z"/>
+        <path d="M14 .872 18 7.8l-4 6.928h-2.578l.578 3H4L0 10.8l4-6.928h2.577L6 .872h8z" stroke="url(#a)" stroke-width="1.5" stroke-linecap="round" transform="translate(3 2.5)"/>
+        <text font-family="Montserrat-Black, Montserrat" font-size="5" font-weight="800" fill="#7186FF" transform="translate(3 2.5)">
+                    <tspan x="5.393" y="5">VS</tspan>
+                </text>
+    </g>
+</svg>

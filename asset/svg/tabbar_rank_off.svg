@@ -1,0 +1,10 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <g fill="none" fill-rule="evenodd">
+        <path stroke="#9396A7" stroke-width="1.5" stroke-linecap="round" d="M6 5H3v3.5l3 2M18 5h3v3.5l-3 2M12 16.5v4"/>
+        <path stroke="#9396A7" stroke-width="1.5" stroke-linecap="square" d="M7.5 21h9"/>
+        <path stroke="#9396A7" stroke-width="1.5" stroke-linecap="round" d="M6 3v11l6 2.5 6-2.5V3z"/>
+        <text font-family="Montserrat-Black, Montserrat" font-size="6" font-weight="800" fill="#9396A7" transform="translate(3)">
+                    <tspan x="7.746" y="6">1</tspan>
+                </text>
+    </g>
+</svg>

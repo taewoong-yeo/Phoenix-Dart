@@ -1,0 +1,29 @@
+<svg width="24" height="24" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
+    <defs>
+        <linearGradient x1="50%" y1="-186.198%" x2="50%" y2="100%" id="a">
+            <stop stop-color="#2E4BF4" offset="0%"/>
+            <stop stop-color="#7186FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-186.198%" x2="50%" y2="100%" id="b">
+            <stop stop-color="#2E4BF4" offset="0%"/>
+            <stop stop-color="#7186FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-186.198%" x2="50%" y2="100%" id="c">
+            <stop stop-color="#2E4BF4" offset="0%"/>
+            <stop stop-color="#7186FF" offset="100%"/>
+        </linearGradient>
+        <linearGradient x1="50%" y1="-186.198%" x2="50%" y2="100%" id="d">
+            <stop stop-color="#2E4BF4" offset="0%"/>
+            <stop stop-color="#7186FF" offset="100%"/>
+        </linearGradient>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <path d="M0 0h24v24H0z"/>
+        <g stroke-width="1.5">
+            <path stroke="url(#a)" stroke-linecap="round" d="M3 13.5v2.037L9 18.5l6-2.963V13" transform="translate(3 2.5)"/>
+            <path stroke="url(#b)" stroke-linecap="round" d="M2 .5v12.037L9 15.5l7-2.963V.5z" transform="translate(3 2.5)"/>
+            <path d="m9 5.995.384.777.857.125-.62.605.146.854L9 7.953l-.767.403.146-.854-.62-.605.857-.125L9 5.995z" stroke="url(#c)" transform="translate(3 2.5)"/>
+            <path stroke="url(#d)" stroke-linecap="square" d="M0 .5h18" transform="translate(3 2.5)"/>
+        </g>
+    </g>
+</svg>
