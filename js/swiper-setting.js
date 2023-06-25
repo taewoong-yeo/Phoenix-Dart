@@ -1,3 +1,6 @@
+$( document ).ready(function() {
+    alert( "모바일 사이즈에서만 정상 동작합니다." );
+});
 $(function(){
   //initialize swiper when document ready
   var mySwiper = new Swiper('.mySwiper', {
